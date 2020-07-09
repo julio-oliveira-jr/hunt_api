@@ -1,4 +1,4 @@
-# product_hunt
+# hunt_web
 Back-end - API - similar ao Product Hunt
 
 Linguagem Utilizada:
